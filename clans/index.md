@@ -9,6 +9,8 @@ title: Clans
 | Vehicle Slot | <Gold :amount='1000' /> (+ <Gold :amount='100' /> per slot) per slot | 15 vehicles (slots) |
 | Transfer Ownership | <Gold :amount='3000' /> per transfer | 1 clan/jucător |
 | Extend Clan 1 Month | <Gold :amount='5000' /> per month | 30 days added |
+| Rename Clan | <Gold :amount='20000' /> | 1 clan/jucător |
+
 
 ## Clans
 
